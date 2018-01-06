@@ -1,0 +1,4 @@
+module CBearLibTerminal {
+  header "BearLibTerminal.h"
+  export *
+}
